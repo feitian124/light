@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">light</string>
+    <string name="front_label">Screen Light</string>
+    <string name="back_label">Led Light</string>
+    <string name="help_label">about</string>
+    <string name="menu_settings">menu_settings</string>
+    <string name="title_activity_main">title_activity_main</string>
+    <string name="front_on">screen light is currently on, slide to turn off</string>
+    <string name="front_off">screen light is currently off, slide to turn on</string>
+    <string name="led_on">LED is currently on, slide to turn off</string>
+    <string name="led_off">LED is currently off, slide to turn on</string>
+    <string name="notify_ticker">LED is currently on</string>
+    <string name="notify_expand_title">LED is currently on</string>
+    <string name="notify_expand_content">you can click here to turn off LED</string>
+    <string name="openFlashError">open flash light error, check if you has a flash light</string>
+    <string name="help">
+    	This is an easy to use lighting tool, using the phone screen and camera led.\n\n
+    	When using the screen as light, the screen will not dim unless you quit or switch off.\n
+    	When using the led as light, the led will keep a notification in the notification bar to remind you.\n
+    	you can slide on the screen to toggle light.\n\n
+    	Any suggestion, please contact feitian124@yunnuy.com, thanks.
+    </string>
+</resources>
